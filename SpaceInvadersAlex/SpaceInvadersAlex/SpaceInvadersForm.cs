@@ -12,17 +12,23 @@ namespace SpaceInvadersAlex
 {
     public partial class SpaceInvadersForm : Form
     {
-        bool goleft;
-        bool goright;
-        int speed = 5;
+        bool goleft = false;
+        bool goright = false;
+        int speed = 10;
         int score = 0;
-        bool isPressed;
+        bool isPressed = false;
         int totalEnemies = 12;
-        int playerSpeed = 6;
+        int playerSpeed = 20;
+
         public SpaceInvadersForm()
         {
             InitializeComponent();
+            tmrTime.Start();
+            time = 20;
+            lblTimer.Text = "Time left : " + time;
         }
+
+        public int time { get; set; }
 
         private void keyisdown(object sender, KeyEventArgs e)
         {
@@ -54,7 +60,7 @@ namespace SpaceInvadersAlex
             {
                 goright = false;
             }
-            if (isPressed)
+            if (isPressed == true)
             {
                 isPressed = false;
             }
@@ -64,6 +70,9 @@ namespace SpaceInvadersAlex
 
         private void timer1_Tick(object sender, EventArgs e)
         {
+            time = time - 1;
+            lblTimer.Text = "Time left : " + time;
+
             //player moving left and right
             if (goleft)
             {
@@ -132,11 +141,11 @@ namespace SpaceInvadersAlex
                 }
             }
             //keeping and showing score
-            lblScore.Text = "Score : " + score;
+            
             if (score > totalEnemies - 1)
             {
                 gameOver();
-                MessageBox.Show("You Saved Earth");
+               
             }
 
         }
@@ -162,8 +171,8 @@ namespace SpaceInvadersAlex
         //Description:this procedure produces the end of the game
         private void gameOver()
         {
-            timer1.Stop();
-            lblScore.Text += "Game Over";
+            tmrTime.Stop();
+            new frmGameOver().Show();
         }
 
        

@@ -7,3 +7,14 @@ C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAl
 C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csproj.GenerateResource.cache
 C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.exe
 C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\bin\Debug\SpaceInvadersAlex.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\bin\Debug\SpaceInvadersAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\bin\Debug\SpaceInvadersAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.SpaceInvadersForm.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.frmGameOver.resources
