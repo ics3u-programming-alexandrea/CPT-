@@ -10,21 +10,25 @@ using System.Windows.Forms;
 
 namespace SpaceInvadersAlex
 {
-    public partial class SpaceInvadersForm : Form
+    public partial class frmSpaceInvaders : Form
     {
+        WMPLib.WindowsMediaPlayer sound = new WMPLib.WindowsMediaPlayer();
         bool goleft = false;
         bool goright = false;
-        int speed = 10;
+        int speed = 15;
         int score = 0;
         bool isPressed = false;
         int totalEnemies = 12;
         int playerSpeed = 20;
 
-        public SpaceInvadersForm()
+        public frmSpaceInvaders()
         {
             InitializeComponent();
+            sound.URL = "sound.mp3";
+            sound.controls.play();
+
             tmrTime.Start();
-            time = 20;
+            time = 40;
             lblTimer.Text = "Time left : " + time;
         }
 
@@ -147,6 +151,13 @@ namespace SpaceInvadersAlex
                 gameOver();
                
             }
+            if (time == 0)
+            {
+                if (score < 12)
+                {
+                    gameOver();
+                }
+            }
 
         }
         
@@ -172,10 +183,18 @@ namespace SpaceInvadersAlex
         private void gameOver()
         {
             tmrTime.Stop();
+            sound.controls.stop();
+            this.Close();
             new frmGameOver().Show();
+
+            
+            
         }
 
-       
+        private void SpaceInvadersForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 
 

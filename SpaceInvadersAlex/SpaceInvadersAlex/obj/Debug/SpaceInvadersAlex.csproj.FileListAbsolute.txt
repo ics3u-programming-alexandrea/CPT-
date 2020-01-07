@@ -3,7 +3,6 @@ C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAl
 C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\bin\Debug\SpaceInvadersAlex.pdb
 C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csprojAssemblyReference.cache
 C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.Properties.Resources.resources
-C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.SpaceInvadersForm.resources
 C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csproj.GenerateResource.cache
 C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.exe
 C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.pdb
@@ -12,9 +11,30 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAle
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\bin\Debug\SpaceInvadersAlex.pdb
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csprojAssemblyReference.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.Properties.Resources.resources
-N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.SpaceInvadersForm.resources
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csproj.GenerateResource.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.pdb
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.frmGameOver.resources
+D:\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\bin\Debug\SpaceInvadersAlex.exe.config
+D:\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\bin\Debug\SpaceInvadersAlex.exe
+D:\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\bin\Debug\SpaceInvadersAlex.pdb
+D:\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csprojAssemblyReference.cache
+D:\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.frmGameOver.resources
+D:\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.Properties.Resources.resources
+D:\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.SpaceInvadersForm.resources
+D:\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csproj.GenerateResource.cache
+D:\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.exe
+D:\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.pdb
+D:\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.frmYouWin.resources
+C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.frmGameOver.resources
+C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.frmYouWin.resources
+C:\Users\User\Documents\ICS3U Programming\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.frmSpaceInvaders.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.frmBeginning.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.frmYouWin.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.frmSpaceInvaders.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\bin\Debug\Interop.WMPLib.dll
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\bin\Debug\AxInterop.WMPLib.dll
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\Interop.WMPLib.dll
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\AxInterop.WMPLib.dll
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\CPT-\SpaceInvadersAlex\SpaceInvadersAlex\obj\Debug\SpaceInvadersAlex.csproj.ResolveComReference.cache

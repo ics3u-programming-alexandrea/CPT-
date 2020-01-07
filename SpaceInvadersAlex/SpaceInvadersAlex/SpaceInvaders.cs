@@ -16,7 +16,7 @@ namespace SpaceInvadersAlex
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SpaceInvadersForm());
+            Application.Run(new frmBeginning());
         }
     }
 }

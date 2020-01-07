@@ -1,6 +1,6 @@
 ﻿namespace SpaceInvadersAlex
 {
-    partial class SpaceInvadersForm
+    partial class frmSpaceInvaders
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SpaceInvadersForm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmSpaceInvaders));
             this.lblScore = new System.Windows.Forms.Label();
             this.tmrTime = new System.Windows.Forms.Timer(this.components);
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
@@ -251,13 +251,13 @@
             // 
             this.lblTimer.AutoSize = true;
             this.lblTimer.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTimer.Location = new System.Drawing.Point(573, 414);
+            this.lblTimer.Location = new System.Drawing.Point(542, 414);
             this.lblTimer.Name = "lblTimer";
             this.lblTimer.Size = new System.Drawing.Size(57, 24);
             this.lblTimer.TabIndex = 27;
             this.lblTimer.Text = "dddc";
             // 
-            // SpaceInvadersForm
+            // frmSpaceInvaders
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -281,8 +281,9 @@
             this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.invader);
             this.Controls.Add(this.player);
-            this.Name = "SpaceInvadersForm";
+            this.Name = "frmSpaceInvaders";
             this.Text = "Space Invaders by Alex";
+            this.Load += new System.EventHandler(this.SpaceInvadersForm_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.keyisdown);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.keyisup);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
